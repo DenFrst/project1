@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">0051_pr</string>
+    <string name="Play">Play</string>
+
+    <string name="Tutorial">Tutorial</string>
+    <string name="Exit">Exit</string>
+
+    <string name="TutorialHead">Обучение</string>
+    <string name="Tutorial1">Вы литературный герой (герой фильма или мультика), знаменитость (певец, артист, политик).
+                             Каждый игрок видит "имена" всех, кроме своего собственного.
+                             Вам нужно задавать вопросы. Вопросы должны быть такими, чтобы наних можно было ответить "Да" или "Нет".
+                             Если ответ "Да" - вы продолжаете задавать вопросы.
+                             Ответ "Нет" - ход переходит следующему игроку.
+    </string>
+
+
+    <string name="action1">Item1</string>
+    <string name="action2">Item2</string>
+    <string name="action3">Item3</string>
+    <string name="title_activity_secondact">secondact</string>
+    <string name="title_activity_game1">game1</string>
+    <string name="hisname">Тут будет его Имя</string>
+    <string name="inputname">Напишите имя</string>
+    <string name="randomname">Случайное</string>
+    <string name="title_activity_pregame">pregame</string>
+
+</resources>

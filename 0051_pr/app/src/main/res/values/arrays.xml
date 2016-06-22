@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Чак Норрис</item>
+        <item>Бенджамин Франклин</item>
+        <item>Шакира</item>
+        <item>Элвис Пресли</item>
+        <item>Майкл Джексон </item>
+        <item>Бил Гейтс</item>
+        <item>Павел Дуров </item>
+        <item>Бритни Спирс </item>
+        <item>Алла Пугачева</item>
+        <item>Стивен Хокинг </item>
+        <item>Будда</item>
+        <item>Конфуций</item>
+        <item>Христофор Колумб</item>
+        <item>Уильям Шекспир</item>
+        <item>Адольф Гитлер</item>
+        <item>Людвиг ван Бетховен</item>
+        <item>Иосиф Сталин</item>
+        <item>Зигмунд Фрейд</item>
+        <item>Владимир Ленин</item>
+        <item>Пётр I</item>
+        <item>Генри Форд</item>
+        <item>Чарли Чаплин</item>
+        <item>Робер Де Ниро</item>
+        <item>Жерар Депардье</item>
+        <item>Квентин Тарантино</item>
+        <item>Никита Михалков</item>
+        <item>Альфред Хичкок</item>
+        <item>Коко Шанель</item>
+        <item>Опра Уинфри</item>
+        <item>Тайгер Вудс</item>
+        <item>Роман Абрамович</item>
+        <item>Стивен Спилберг</item>
+        <item>Джонни Депп</item>
+        <item>Мадонна</item>
+        <item>Элтон Джон</item>
+        <item>Том Круз</item>
+        <item>Бред Питт</item>
+        <item>Анджелина Джоли</item>
+        <item>Дженифер Энистон</item>
+        <item>Уилл Смит</item>
+        <item>Майкл Джордан</item>
+        <item>Михаэль Шумахер</item>
+        <item>Джоан Роулинг</item>
+        <item>Дженифер Лопес</item>
+        <item>Дэвид Бэкхам</item>
+        <item>Джулиа Робертс</item>
+        <item>Мэтт Дэймон</item>
+        <item>Пэрис Хилтон</item>
+        <item>Мария Шарапова</item>
+        <item>Кэмирон Диаз</item>
+        <item>Кейт Мосс</item>
+        <item>Хайди Клум</item>
+        <item>Тайра Бэнкс</item>
+        <item>Владимир Путин</item>
+        <item>Барак Обама</item>
+        <item>Ангела Меркель</item>
+        <item>Елена Исинбаева</item>
+        <item>Константин Хабенский</item>
+        <item>Сергей Безруков</item>
+        <item>Криштиану Роналду</item>
+        <item>Леонардо Ди Каприо</item>
+        <item>Стив Джобс</item>
+        <item>Земфира</item>
+        <item>Виктор Цой</item>
+        <item>Владимир Высоцкий</item>
+        <item>Эминем</item>
+        <item>Риана</item>
+        <item>Селин Дион</item>
+        <item>Леди Гага</item>
+        <item>Джастин Бибер</item>
+        <item>Джеки Чан</item>
+        <item>Мэрилин Мэнсон</item>
+
+    </string-array>
+
+
+</resources>
